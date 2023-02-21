@@ -1,3 +1,4 @@
+'use strict';
 const x = 2;
 if(x > 0){
   console.log("Liczba jest dodatnia");
